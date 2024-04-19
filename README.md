@@ -29,4 +29,4 @@ nuestro enlaces `https://github.com/Crissancio/python-la-paz`
 
 ![spider](https://i.pinimg.com/736x/d4/da/21/d4da218e178a7218ccb9acbb31cb1168.jpg)
 
-![ñamñam]("./image.png")
+![ñamñam](./image.png)
