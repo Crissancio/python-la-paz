@@ -1,5 +1,21 @@
 # python-la-paz
 
+# SESIÓN 2
+
+## .gitignore y MarkDown
+
+todos me dicen que soy un **fracasado**
+
+que esta probado que soy un *caso perdido*
+
+>Show me the code
+
+## lista de los archivos del repositorio
+1. .gitgnore
+2. claves.txt
+3. image.png
+4. README.md
+
 Cristhian Pablo Alvarez Guarachi
 
 ## titulo-2
